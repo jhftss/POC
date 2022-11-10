@@ -1,6 +1,6 @@
 # POC
 
-A collection of POC &amp; Exploit for the vulnerabilities I discovered.
+A public collection of POCs &amp; Exploits for the vulnerabilities I discovered.
 
 **For research purposes only!**
 
